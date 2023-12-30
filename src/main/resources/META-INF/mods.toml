@@ -31,7 +31,7 @@ displayName = "Fishing Overhaul" #mandatory
 # A text field displayed in the mod UI
 #credits="Thanks for this example mod goes to Java" #optional
 # A text field displayed in the mod UI
-authors = "pitbox46" #optional
+authors = "m1hono" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description = '''
 Adds a little extra to fishing
